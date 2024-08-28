@@ -1,0 +1,23 @@
+{
+  "name": "helia-pin-service-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erickgonzalezdev/helia-pin-service-node.git"
+  },
+  "author": "erickgonzalezdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erickgonzalezdev/helia-pin-service-node/issues"
+  },
+  "homepage": "https://github.com/erickgonzalezdev/helia-pin-service-node#readme",
+  "dependencies": {
+    "helia-ipfs-node": "^1.0.4"
+  }
+}
